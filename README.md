@@ -1,4 +1,4 @@
-# Home Network Setup – Raspberry Pi + Ubuntu Firewall
+# Home Lab Setup (ongoing)
 
 ## Overview
 This project documents the configuration of a small-scale home network lab aimed at improving privacy, storage access, and firewall control using lightweight, open-source tools.
