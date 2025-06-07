@@ -7,8 +7,8 @@ This project documents the configuration of a small-scale home network lab aimed
 - Raspberry Pi 4 running:
   - **Pi-hole** for DNS-level ad/malware blocking
   - **OpenMediaVault** for home NAS
-- MacBook with Ubuntu terminal for managing:
-  - **Custom iptables rules**
+- Lenovo Laptop with Ubuntu terminal for managing:
+  - **Custom rules in Python**
   - Basic firewall configurations
 
 ## Features
